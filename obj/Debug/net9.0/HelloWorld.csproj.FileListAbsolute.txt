@@ -1,0 +1,14 @@
+/home/vmoraz/Codeuni/HelloWorld/bin/Debug/net9.0/HelloWorld
+/home/vmoraz/Codeuni/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/home/vmoraz/Codeuni/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/home/vmoraz/Codeuni/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/home/vmoraz/Codeuni/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/home/vmoraz/Codeuni/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/vmoraz/Codeuni/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/home/vmoraz/Codeuni/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/home/vmoraz/Codeuni/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/vmoraz/Codeuni/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/home/vmoraz/Codeuni/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/home/vmoraz/Codeuni/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/home/vmoraz/Codeuni/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/home/vmoraz/Codeuni/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll

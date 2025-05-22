@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rxp9SkTDCvc=",
+  "success": true,
+  "projectFilePath": "/home/vmoraz/Codeuni/temp-oop/program.csproj",
+  "expectedPackageFiles": [
+    "/home/vmoraz/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
